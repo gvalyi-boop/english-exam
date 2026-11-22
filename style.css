@@ -1,0 +1,289 @@
+/* ── Reset & base ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:        #f0f4ff;
+  --surface:   #ffffff;
+  --primary:   #3b5bdb;
+  --primary-h: #2f4ac0;
+  --success:   #2f9e44;
+  --success-bg:#d3f9d8;
+  --danger:    #c92a2a;
+  --danger-bg: #ffe3e3;
+  --text:      #1a1a2e;
+  --muted:     #6b7280;
+  --border:    #e2e8f0;
+  --radius:    14px;
+  --shadow:    0 4px 24px rgba(0,0,0,.10);
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 16px;
+}
+
+/* ── Page management ──────────────────────────────────────── */
+.page { display: none; min-height: 100dvh; }
+.page.active { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 16px; }
+
+/* ── Card ─────────────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 36px 28px;
+  width: 100%;
+  max-width: 520px;
+  text-align: center;
+}
+
+/* ── Welcome page ─────────────────────────────────────────── */
+.flag { font-size: 56px; margin-bottom: 12px; }
+h1 { font-size: 1.75rem; font-weight: 700; line-height: 1.2; margin-bottom: 8px; }
+.subtitle { color: var(--muted); margin-bottom: 24px; font-size: .95rem; }
+
+.info-box {
+  background: var(--bg);
+  border-radius: 10px;
+  padding: 16px 20px;
+  margin-bottom: 28px;
+  text-align: left;
+}
+.info-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 0;
+  font-size: .93rem;
+  color: var(--muted);
+}
+.info-icon { font-size: 1.1rem; }
+
+/* ── Buttons ──────────────────────────────────────────────── */
+.btn {
+  display: inline-block;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background .15s, transform .1s;
+}
+.btn:active { transform: scale(.97); }
+
+.btn-primary {
+  background: var(--primary);
+  color: #fff;
+}
+.btn-primary:hover { background: var(--primary-h); }
+
+.btn-large { padding: 15px 40px; font-size: 1.1rem; border-radius: 12px; }
+
+/* ── Quiz layout ──────────────────────────────────────────── */
+#page-question {
+  justify-content: flex-start;
+  padding: 0;
+  background: var(--bg);
+}
+
+.quiz-header {
+  width: 100%;
+  max-width: 640px;
+  padding: 16px 20px 10px;
+  background: var(--surface);
+  box-shadow: 0 2px 8px rgba(0,0,0,.07);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  align-self: center;        /* centres it on wide screens */
+}
+
+.progress-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: .85rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.progress-bar-track {
+  height: 6px;
+  background: var(--border);
+  border-radius: 99px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.progress-bar-fill {
+  height: 100%;
+  background: var(--primary);
+  border-radius: 99px;
+  transition: width .35s ease;
+  width: 0%;
+}
+
+.topic-badge {
+  display: inline-block;
+  font-size: .78rem;
+  font-weight: 600;
+  color: var(--primary);
+  background: #e7edff;
+  border-radius: 99px;
+  padding: 3px 12px;
+}
+
+/* ── Question body ────────────────────────────────────────── */
+.question-body {
+  width: 100%;
+  max-width: 640px;
+  align-self: center;
+  padding: 24px 20px 40px;
+  flex: 1;
+}
+
+.question-text {
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.55;
+  margin-bottom: 22px;
+  color: var(--text);
+}
+
+/* ── Options ──────────────────────────────────────────────── */
+.options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.option-btn {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 14px 18px;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text);
+  cursor: pointer;
+  text-align: left;
+  transition: border-color .15s, background .15s, transform .1s;
+}
+.option-btn:hover:not(:disabled) {
+  border-color: var(--primary);
+  background: #eef2ff;
+}
+.option-btn:active:not(:disabled) { transform: scale(.98); }
+
+.option-letter {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 2px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .85rem;
+  font-weight: 700;
+  color: var(--muted);
+  transition: background .15s, border-color .15s, color .15s;
+}
+
+/* States after answering */
+.option-btn.correct {
+  border-color: var(--success);
+  background: var(--success-bg);
+}
+.option-btn.correct .option-letter {
+  background: var(--success);
+  border-color: var(--success);
+  color: #fff;
+}
+
+.option-btn.wrong {
+  border-color: var(--danger);
+  background: var(--danger-bg);
+}
+.option-btn.wrong .option-letter {
+  background: var(--danger);
+  border-color: var(--danger);
+  color: #fff;
+}
+
+.option-btn:disabled { cursor: default; }
+
+/* ── Feedback area (inline, below options) ────────────────── */
+.feedback-area {
+  margin-top: 20px;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 14px;
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.feedback-area.hidden { display: none; }
+
+.feedback-box {
+  font-size: .95rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.feedback-box.ok  { color: var(--success); }
+.feedback-box.bad { color: var(--danger); }
+
+#btn-next { width: 100%; }
+
+/* ── Completion page ──────────────────────────────────────── */
+.done-card { max-width: 420px; }
+.done-emoji { font-size: 64px; margin-bottom: 12px; }
+.done-msg { color: var(--muted); margin: 8px 0 20px; font-size: 1rem; }
+
+.done-score-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.done-score-num {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: var(--primary);
+  line-height: 1;
+}
+.done-score-label { font-size: .9rem; color: var(--muted); margin-top: 2px; }
+
+.done-breakdown {
+  font-size: .9rem;
+  color: var(--muted);
+  background: var(--bg);
+  border-radius: 10px;
+  padding: 12px 18px;
+  margin-bottom: 24px;
+  line-height: 1.8;
+  text-align: left;
+}
+.done-breakdown span.ok  { color: var(--success); font-weight: 700; }
+.done-breakdown span.bad { color: var(--danger);  font-weight: 700; }
+
+/* ── Responsive tweaks ─────────────────────────────────────── */
+@media (min-width: 600px) {
+  h1 { font-size: 2.1rem; }
+  .question-text { font-size: 1.25rem; }
+  .option-btn { font-size: 1.05rem; padding: 16px 20px; }
+  #btn-next { width: auto; align-self: flex-end; min-width: 160px; }
+}
+
+@media (min-width: 900px) {
+  .quiz-header, .question-body { max-width: 720px; }
+}
