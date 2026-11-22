@@ -530,7 +530,7 @@
   {
     "id": 45,
     "topic": "Elöljárószók (Prepositions)",
-    "question": "His behavior is completely _____ keeping with the company's core values.",
+    "question": "His behavior is not _____ keeping with the company's core values.",
     "options": [
       "in",
       "on",
@@ -981,7 +981,7 @@
       "attention",
       "attendant"
     ],
-    "correct_answer": "attentiveness"
+    "correct_answer": "attention"
   },
   {
     "id": 83,
@@ -1010,7 +1010,7 @@
   {
     "id": 85,
     "topic": "Szóképzés",
-    "question": "She spoke so _____ that everyone in the hall was moved (ELOQUENCE).",
+    "question": "She spoke so _____ that everyone in the hall was moved (ELOQUENT).",
     "options": [
       "eloquently",
       "eloquent",
@@ -1198,5 +1198,1205 @@
       "perceiving"
     ],
     "correct_answer": "perceptive"
+  },
+  {
+    "id": 101,
+    "topic": "Nyelvhelyesség",
+    "question": "Seldom _______ such a blatant disregard for basic safety regulations.",
+    "options": [
+      "did I witnessed",
+      "I have witnessed",
+      "I witnessed",
+      "have I witnessed"
+    ],
+    "correct_answer": "have I witnessed"
+  },
+  {
+    "id": 102,
+    "topic": "Nyelvhelyesség",
+    "question": "Were the board _______ the merger, hundreds of jobs would be at risk.",
+    "options": [
+      "approve",
+      "approved",
+      "to approve",
+      "approving"
+    ],
+    "correct_answer": "to approve"
+  },
+  {
+    "id": 103,
+    "topic": "Nyelvhelyesség",
+    "question": "It is imperative that every applicant _______ the form prior to the interview.",
+    "options": [
+      "completes",
+      "is completing",
+      "completed",
+      "complete"
+    ],
+    "correct_answer": "complete"
+  },
+  {
+    "id": 104,
+    "topic": "Nyelvhelyesség",
+    "question": "No sooner had the treaty been signed _______ hostilities resumed along the border.",
+    "options": [
+      "when",
+      "that",
+      "than",
+      "as"
+    ],
+    "correct_answer": "than"
+  },
+  {
+    "id": 105,
+    "topic": "Nyelvhelyesség",
+    "question": "_______ the severity of the storm, the rescue team pressed on.",
+    "options": [
+      "Albeit",
+      "Whereas",
+      "Inasmuch as",
+      "Notwithstanding"
+    ],
+    "correct_answer": "Notwithstanding"
+  },
+  {
+    "id": 106,
+    "topic": "Nyelvhelyesség",
+    "question": "She spoke so softly that I could barely make out what _______.",
+    "options": [
+      "was she saying",
+      "she says",
+      "did she say",
+      "she was saying"
+    ],
+    "correct_answer": "she was saying"
+  },
+  {
+    "id": 107,
+    "topic": "Nyelvhelyesség",
+    "question": "Had we known about the traffic diversion, we _______ an alternative route.",
+    "options": [
+      "had taken",
+      "would take",
+      "would have taken",
+      "will have taken"
+    ],
+    "correct_answer": "would have taken"
+  },
+  {
+    "id": 108,
+    "topic": "Nyelvhelyesség",
+    "question": "Little _______ that his offhand remark would spark a nationwide controversy.",
+    "options": [
+      "he realized",
+      "realized he",
+      "did he realize",
+      "he did realize"
+    ],
+    "correct_answer": "did he realize"
+  },
+  {
+    "id": 109,
+    "topic": "Nyelvhelyesség",
+    "question": "The suspect is believed _______ the country using a forged passport.",
+    "options": [
+      "to have fled",
+      "to flee",
+      "having fled",
+      "fled"
+    ],
+    "correct_answer": "to have fled"
+  },
+  {
+    "id": 110,
+    "topic": "Nyelvhelyesség",
+    "question": "I'd rather you _______ anyone about the confidential restructuring plan just yet.",
+    "options": [
+      "haven't told",
+      "wouldn't tell",
+      "didn't tell",
+      "don't tell"
+    ],
+    "correct_answer": "didn't tell"
+  },
+  {
+    "id": 111,
+    "topic": "Nyelvhelyesség",
+    "question": "Not only _______ the deadline, but he also failed to notify his supervisor.",
+    "options": [
+      "missed he",
+      "he missed",
+      "he did miss",
+      "did he miss"
+    ],
+    "correct_answer": "did he miss"
+  },
+  {
+    "id": 112,
+    "topic": "Nyelvhelyesség",
+    "question": "Scarcely _______ the office when the fire alarm went off.",
+    "options": [
+      "I entered",
+      "did I enter",
+      "I had entered",
+      "had I entered"
+    ],
+    "correct_answer": "had I entered"
+  },
+  {
+    "id": 113,
+    "topic": "Nyelvhelyesség",
+    "question": "Much _______ I admire her dedication, I cannot endorse her methods.",
+    "options": [
+      "whereas",
+      "despite",
+      "as",
+      "however"
+    ],
+    "correct_answer": "as"
+  },
+  {
+    "id": 114,
+    "topic": "Nyelvhelyesség",
+    "question": "The new policy requires that all staff _______ mandatory cybersecurity training.",
+    "options": [
+      "underwent",
+      "are undergoing",
+      "undergoes",
+      "undergo"
+    ],
+    "correct_answer": "undergo"
+  },
+  {
+    "id": 115,
+    "topic": "Nyelvhelyesség",
+    "question": "_______ it not for your timely intervention, the project would have collapsed.",
+    "options": [
+      "Were",
+      "Had",
+      "If",
+      "Should"
+    ],
+    "correct_answer": "Were"
+  },
+  {
+    "id": 116,
+    "topic": "Nyelvhelyesség",
+    "question": "By the time the reinforcements arrive, the garrison _______ out of supplies.",
+    "options": [
+      "would have run",
+      "will have run",
+      "is running",
+      "will run"
+    ],
+    "correct_answer": "will have run"
+  },
+  {
+    "id": 117,
+    "topic": "Nyelvhelyesség",
+    "question": "He objected to _______ like a novice despite his twenty years of experience.",
+    "options": [
+      "be treated",
+      "have treated",
+      "treating",
+      "being treated"
+    ],
+    "correct_answer": "being treated"
+  },
+  {
+    "id": 118,
+    "topic": "Nyelvhelyesség",
+    "question": "Only after the audit was completed _______ the extent of the embezzlement.",
+    "options": [
+      "they uncovered",
+      "uncovered they",
+      "did they uncover",
+      "they did uncover"
+    ],
+    "correct_answer": "did they uncover"
+  },
+  {
+    "id": 119,
+    "topic": "Nyelvhelyesség",
+    "question": "Supposing you _______ the scholarship, how would you fund your studies?",
+    "options": [
+      "will be denied",
+      "have denied",
+      "are denying",
+      "were denied"
+    ],
+    "correct_answer": "were denied"
+  },
+  {
+    "id": 120,
+    "topic": "Nyelvhelyesség",
+    "question": "The manuscript, _______ authenticity has long been debated, is finally on display.",
+    "options": [
+      "whose",
+      "which",
+      "of which",
+      "whom"
+    ],
+    "correct_answer": "whose"
+  },
+  {
+    "id": 121,
+    "topic": "Szókincs és kollokációk",
+    "question": "The committee reached a _______ decision after hours of heated debate.",
+    "options": [
+      "unanimous",
+      "simultaneous",
+      "spontaneous",
+      "monotonous"
+    ],
+    "correct_answer": "unanimous"
+  },
+  {
+    "id": 122,
+    "topic": "Szókincs és kollokációk",
+    "question": "His _______ remarks during the press conference alienated several key allies.",
+    "options": [
+      "tactless",
+      "effortless",
+      "peerless",
+      "flawless"
+    ],
+    "correct_answer": "tactless"
+  },
+  {
+    "id": 123,
+    "topic": "Szókincs és kollokációk",
+    "question": "The evidence presented by the prosecution was entirely _______ and failed to convince the jury.",
+    "options": [
+      "substantial",
+      "confidential",
+      "influential",
+      "circumstantial"
+    ],
+    "correct_answer": "circumstantial"
+  },
+  {
+    "id": 124,
+    "topic": "Szókincs és kollokációk",
+    "question": "A sudden _______ of flu forced the theater company to cancel tonight's performance.",
+    "options": [
+      "outburst",
+      "outlook",
+      "outbreak",
+      "outcome"
+    ],
+    "correct_answer": "outbreak"
+  },
+  {
+    "id": 125,
+    "topic": "Szókincs és kollokációk",
+    "question": "The CEO issued a _______ denial of the allegations of insider trading.",
+    "options": [
+      "hypothetical",
+      "categorical",
+      "symmetrical",
+      "rhetorical"
+    ],
+    "correct_answer": "categorical"
+  },
+  {
+    "id": 126,
+    "topic": "Szókincs és kollokációk",
+    "question": "The new legislation aims to _______ the gap between urban and rural healthcare.",
+    "options": [
+      "mend",
+      "stitch",
+      "bridge",
+      "seal"
+    ],
+    "correct_answer": "bridge"
+  },
+  {
+    "id": 127,
+    "topic": "Szókincs és kollokációk",
+    "question": "She has an _______ memory for dates and historical trivia.",
+    "options": [
+      "untimely",
+      "unwary",
+      "unruly",
+      "uncanny"
+    ],
+    "correct_answer": "uncanny"
+  },
+  {
+    "id": 128,
+    "topic": "Szókincs és kollokációk",
+    "question": "The negotiations reached a _______ when neither side was willing to compromise.",
+    "options": [
+      "gridlock",
+      "headlock",
+      "deadlock",
+      "padlock"
+    ],
+    "correct_answer": "deadlock"
+  },
+  {
+    "id": 129,
+    "topic": "Szókincs és kollokációk",
+    "question": "The company suffered _______ losses during the economic downturn.",
+    "options": [
+      "subsequent",
+      "subsidiary",
+      "substantial",
+      "subordinate"
+    ],
+    "correct_answer": "substantial"
+  },
+  {
+    "id": 130,
+    "topic": "Szókincs és kollokációk",
+    "question": "His argument was so _______ that even his fiercest critics had to concede.",
+    "options": [
+      "compelling",
+      "repelling",
+      "impending",
+      "descending"
+    ],
+    "correct_answer": "compelling"
+  },
+  {
+    "id": 131,
+    "topic": "Szókincs és kollokációk",
+    "question": "The journalist refused to _______ the identity of her confidential source.",
+    "options": [
+      "submerge",
+      "divulge",
+      "converge",
+      "indulge"
+    ],
+    "correct_answer": "divulge"
+  },
+  {
+    "id": 132,
+    "topic": "Szókincs és kollokációk",
+    "question": "We must take _______ measures to prevent the disease from spreading further.",
+    "options": [
+      "stringent",
+      "blatant",
+      "dormant",
+      "lenient"
+    ],
+    "correct_answer": "stringent"
+  },
+  {
+    "id": 133,
+    "topic": "Szókincs és kollokációk",
+    "question": "The witness gave a _______ account of the events leading up to the crash.",
+    "options": [
+      "lucid",
+      "livid",
+      "lurid",
+      "tepid"
+    ],
+    "correct_answer": "lucid"
+  },
+  {
+    "id": 134,
+    "topic": "Szókincs és kollokációk",
+    "question": "Fame proved to be _______, and within two years he was largely forgotten.",
+    "options": [
+      "perpetual",
+      "incessant",
+      "ephemeral",
+      "eternal"
+    ],
+    "correct_answer": "ephemeral"
+  },
+  {
+    "id": 135,
+    "topic": "Szókincs és kollokációk",
+    "question": "The architect's _______ design blended modern glass with historic stonework.",
+    "options": [
+      "ingenuous",
+      "indigenous",
+      "ingenious",
+      "indignant"
+    ],
+    "correct_answer": "ingenious"
+  },
+  {
+    "id": 136,
+    "topic": "Szókincs és kollokációk",
+    "question": "The treaty was hailed as a _______ achievement in international diplomacy.",
+    "options": [
+      "hallmark",
+      "bookmark",
+      "trademark",
+      "landmark"
+    ],
+    "correct_answer": "landmark"
+  },
+  {
+    "id": 137,
+    "topic": "Szókincs és kollokációk",
+    "question": "Her _______ efforts to revitalize the neighborhood finally paid off.",
+    "options": [
+      "remorseless",
+      "relentless",
+      "reckless",
+      "restless"
+    ],
+    "correct_answer": "relentless"
+  },
+  {
+    "id": 138,
+    "topic": "Szókincs és kollokációk",
+    "question": "The report highlights a _______ contrast between the two regions' growth rates.",
+    "options": [
+      "stark",
+      "stern",
+      "stiff",
+      "stout"
+    ],
+    "correct_answer": "stark"
+  },
+  {
+    "id": 139,
+    "topic": "Szókincs és kollokációk",
+    "question": "He harbored a deep _______ against those who had betrayed his trust.",
+    "options": [
+      "contentment",
+      "resentment",
+      "bewilderment",
+      "detachment"
+    ],
+    "correct_answer": "resentment"
+  },
+  {
+    "id": 140,
+    "topic": "Szókincs és kollokációk",
+    "question": "The medication helps _______ the symptoms, though it does not cure the illness.",
+    "options": [
+      "implicate",
+      "aggravate",
+      "instigate",
+      "alleviate"
+    ],
+    "correct_answer": "alleviate"
+  },
+  {
+    "id": 141,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The government promised to _______ down on tax evasion next fiscal year.",
+    "options": [
+      "cramp",
+      "stamp",
+      "clamp",
+      "damp"
+    ],
+    "correct_answer": "clamp"
+  },
+  {
+    "id": 142,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "I can't _______ out why she declined such a lucrative job offer.",
+    "options": [
+      "rule",
+      "point",
+      "figure",
+      "set"
+    ],
+    "correct_answer": "figure"
+  },
+  {
+    "id": 143,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The rebel forces refused to _______ in despite being heavily outnumbered.",
+    "options": [
+      "let",
+      "put",
+      "take",
+      "give"
+    ],
+    "correct_answer": "give"
+  },
+  {
+    "id": 144,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "Her success can be attributed _______ a combination of talent and perseverance.",
+    "options": [
+      "on",
+      "to",
+      "with",
+      "for"
+    ],
+    "correct_answer": "to"
+  },
+  {
+    "id": 145,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The meeting had to be _______ off due to the chairman's sudden illness.",
+    "options": [
+      "put",
+      "called",
+      "taken",
+      "cut"
+    ],
+    "correct_answer": "called"
+  },
+  {
+    "id": 146,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "He is notorious _______ arriving late to high-profile press briefings.",
+    "options": [
+      "about",
+      "for",
+      "of",
+      "with"
+    ],
+    "correct_answer": "for"
+  },
+  {
+    "id": 147,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "We need to _______ up with a viable contingency plan before Friday.",
+    "options": [
+      "keep",
+      "go",
+      "get",
+      "come"
+    ],
+    "correct_answer": "come"
+  },
+  {
+    "id": 148,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The new tax regulations are completely _______ odds with our business model.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct_answer": "at"
+  },
+  {
+    "id": 149,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "She effortlessly _______ across her main points during the keynote speech.",
+    "options": [
+      "gave",
+      "put",
+      "took",
+      "made"
+    ],
+    "correct_answer": "put"
+  },
+  {
+    "id": 150,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The inquiry aims to _______ into the root causes of the systemic failure.",
+    "options": [
+      "dwell",
+      "drift",
+      "draw",
+      "delve"
+    ],
+    "correct_answer": "delve"
+  },
+  {
+    "id": 151,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "His reckless spending eventually _______ up with him, leaving him bankrupt.",
+    "options": [
+      "brought",
+      "kept",
+      "came",
+      "caught"
+    ],
+    "correct_answer": "caught"
+  },
+  {
+    "id": 152,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The treaty was signed _______ behalf of all member states.",
+    "options": [
+      "in",
+      "for",
+      "at",
+      "on"
+    ],
+    "correct_answer": "on"
+  },
+  {
+    "id": 153,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "Many small businesses went _______ during the prolonged recession.",
+    "options": [
+      "under",
+      "through",
+      "down",
+      "over"
+    ],
+    "correct_answer": "under"
+  },
+  {
+    "id": 154,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "She was taken _______ by the sheer scale of the devastation.",
+    "options": [
+      "aback",
+      "aside",
+      "away",
+      "apart"
+    ],
+    "correct_answer": "aback"
+  },
+  {
+    "id": 155,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The committee decided to _______ away with outdated bureaucratic procedures.",
+    "options": [
+      "put",
+      "do",
+      "make",
+      "go"
+    ],
+    "correct_answer": "do"
+  },
+  {
+    "id": 156,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "He is fiercely protective _______ his privacy and rarely grants interviews.",
+    "options": [
+      "of",
+      "about",
+      "for",
+      "with"
+    ],
+    "correct_answer": "of"
+  },
+  {
+    "id": 157,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The rumors turned _______ to be completely unfounded.",
+    "options": [
+      "out",
+      "up",
+      "in",
+      "over"
+    ],
+    "correct_answer": "out"
+  },
+  {
+    "id": 158,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "I will _______ by my initial decision regardless of the backlash.",
+    "options": [
+      "stick",
+      "hold",
+      "stay",
+      "stand"
+    ],
+    "correct_answer": "stand"
+  },
+  {
+    "id": 159,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "The new software is incompatible _______ older operating systems.",
+    "options": [
+      "for",
+      "from",
+      "to",
+      "with"
+    ],
+    "correct_answer": "with"
+  },
+  {
+    "id": 160,
+    "topic": "Vonzatos igék és elöljárószók",
+    "question": "They tried to _______ up the scandal, but leaked documents exposed the truth.",
+    "options": [
+      "push",
+      "hush",
+      "flush",
+      "brush"
+    ],
+    "correct_answer": "hush"
+  },
+  {
+    "id": 161,
+    "topic": "Idiómák",
+    "question": "Winning the championship against all odds was a real _______ in her cap.",
+    "options": [
+      "plume",
+      "ribbon",
+      "badge",
+      "feather"
+    ],
+    "correct_answer": "feather"
+  },
+  {
+    "id": 162,
+    "topic": "Idiómák",
+    "question": "He decided to bite the _______ and admit his mistake to the board.",
+    "options": [
+      "nail",
+      "cherry",
+      "bullet",
+      "dust"
+    ],
+    "correct_answer": "bullet"
+  },
+  {
+    "id": 163,
+    "topic": "Idiómák",
+    "question": "Her promotion came completely out of the _______; nobody expected it.",
+    "options": [
+      "red",
+      "dark",
+      "blue",
+      "clear"
+    ],
+    "correct_answer": "blue"
+  },
+  {
+    "id": 164,
+    "topic": "Idiómák",
+    "question": "Let's not beat around the _______—tell me honestly what you think.",
+    "options": [
+      "bush",
+      "tree",
+      "shrub",
+      "hedge"
+    ],
+    "correct_answer": "bush"
+  },
+  {
+    "id": 165,
+    "topic": "Idiómák",
+    "question": "The sudden resignation of the CFO threw a _______ in the works.",
+    "options": [
+      "pliers",
+      "spanner",
+      "chisel",
+      "hammer"
+    ],
+    "correct_answer": "spanner"
+  },
+  {
+    "id": 166,
+    "topic": "Idiómák",
+    "question": "After years of living abroad, she felt like a fish out of _______ back home.",
+    "options": [
+      "pond",
+      "sea",
+      "water",
+      "river"
+    ],
+    "correct_answer": "water"
+  },
+  {
+    "id": 167,
+    "topic": "Idiómák",
+    "question": "You're barking up the wrong _______ if you think I leaked the memo.",
+    "options": [
+      "bush",
+      "post",
+      "tree",
+      "track"
+    ],
+    "correct_answer": "tree"
+  },
+  {
+    "id": 168,
+    "topic": "Idiómák",
+    "question": "The two rivals finally decided to bury the _______ and collaborate.",
+    "options": [
+      "axe",
+      "sword",
+      "dagger",
+      "hatchet"
+    ],
+    "correct_answer": "hatchet"
+  },
+  {
+    "id": 169,
+    "topic": "Idiómák",
+    "question": "He has a chip on his _______ because he never attended university.",
+    "options": [
+      "shoulder",
+      "neck",
+      "back",
+      "chest"
+    ],
+    "correct_answer": "shoulder"
+  },
+  {
+    "id": 170,
+    "topic": "Idiómák",
+    "question": "Don't count your chickens before they _______.",
+    "options": [
+      "grow",
+      "hatch",
+      "crow",
+      "fly"
+    ],
+    "correct_answer": "hatch"
+  },
+  {
+    "id": 171,
+    "topic": "Idiómák",
+    "question": "The new tax hike was the final _______ that sparked nationwide protests.",
+    "options": [
+      "spark",
+      "drop",
+      "brick",
+      "straw"
+    ],
+    "correct_answer": "straw"
+  },
+  {
+    "id": 172,
+    "topic": "Idiómák",
+    "question": "She always goes the extra _______ to ensure her clients are satisfied.",
+    "options": [
+      "inch",
+      "yard",
+      "mile",
+      "step"
+    ],
+    "correct_answer": "mile"
+  },
+  {
+    "id": 173,
+    "topic": "Idiómák",
+    "question": "His extravagant lifestyle means he is constantly burning the candle at both _______.",
+    "options": [
+      "tips",
+      "points",
+      "ends",
+      "sides"
+    ],
+    "correct_answer": "ends"
+  },
+  {
+    "id": 174,
+    "topic": "Idiómák",
+    "question": "We need to get the _______ rolling if we want to launch by autumn.",
+    "options": [
+      "stone",
+      "ball",
+      "cart",
+      "wheel"
+    ],
+    "correct_answer": "ball"
+  },
+  {
+    "id": 175,
+    "topic": "Idiómák",
+    "question": "The politician tried to sit on the _______ during the controversial debate.",
+    "options": [
+      "bench",
+      "fence",
+      "wall",
+      "ledge"
+    ],
+    "correct_answer": "fence"
+  },
+  {
+    "id": 176,
+    "topic": "Idiómák",
+    "question": "It takes two to _______; both parties share responsibility for the breakdown.",
+    "options": [
+      "dance",
+      "duet",
+      "waltz",
+      "tango"
+    ],
+    "correct_answer": "tango"
+  },
+  {
+    "id": 177,
+    "topic": "Idiómák",
+    "question": "He let the _______ out of the bag about the surprise merger.",
+    "options": [
+      "dog",
+      "fox",
+      "bird",
+      "cat"
+    ],
+    "correct_answer": "cat"
+  },
+  {
+    "id": 178,
+    "topic": "Idiómák",
+    "question": "The luxury watch cost an arm and a _______.",
+    "options": [
+      "hand",
+      "foot",
+      "eye",
+      "leg"
+    ],
+    "correct_answer": "leg"
+  },
+  {
+    "id": 179,
+    "topic": "Idiómák",
+    "question": "She kept a stiff upper _______ despite the devastating news.",
+    "options": [
+      "lip",
+      "jaw",
+      "chin",
+      "brow"
+    ],
+    "correct_answer": "lip"
+  },
+  {
+    "id": 180,
+    "topic": "Idiómák",
+    "question": "I'm feeling a bit under the _______ today, so I'll work from home.",
+    "options": [
+      "storm",
+      "weather",
+      "rain",
+      "cloud"
+    ],
+    "correct_answer": "weather"
+  },
+  {
+    "id": 181,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "The _______ of the ancient temple took over a decade to complete. (RESTORE)",
+    "options": [
+      "restorative",
+      "restoration",
+      "restorability",
+      "restoring"
+    ],
+    "correct_answer": "restoration"
+  },
+  {
+    "id": 182,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "His _______ to accept criticism made him difficult to work with. (WILLING)",
+    "options": [
+      "unwillingness",
+      "unwillingly",
+      "willingness",
+      "diswilling"
+    ],
+    "correct_answer": "unwillingness"
+  },
+  {
+    "id": 183,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "The drug proved to be _______ effective in clinical trials. (REMARK)",
+    "options": [
+      "remarkably",
+      "unremarkably",
+      "remarkable",
+      "remarkedly"
+    ],
+    "correct_answer": "remarkably"
+  },
+  {
+    "id": 184,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Severe water _______ are expected if the drought continues. (SHORT)",
+    "options": [
+      "shortenings",
+      "shortfalls",
+      "shortages",
+      "shortcomings"
+    ],
+    "correct_answer": "shortages"
+  },
+  {
+    "id": 185,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "The witness's testimony was full of glaring _______. (CONSISTENT)",
+    "options": [
+      "consistence",
+      "inconsistently",
+      "inconsistencies",
+      "consistencies"
+    ],
+    "correct_answer": "inconsistencies"
+  },
+  {
+    "id": 186,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Such behavior is wholly _______ with our company's core values. (COMPATIBLE)",
+    "options": [
+      "uncompatible",
+      "noncompatible",
+      "incompatible",
+      "discompatible"
+    ],
+    "correct_answer": "incompatible"
+  },
+  {
+    "id": 187,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "The _______ of renewable energy is crucial for combating climate change. (ADOPT)",
+    "options": [
+      "adaption",
+      "adoption",
+      "adoptive",
+      "adopting"
+    ],
+    "correct_answer": "adoption"
+  },
+  {
+    "id": 188,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "She looked at him in utter _______ when he announced his resignation. (BELIEVE)",
+    "options": [
+      "unbelief",
+      "nonbelief",
+      "believability",
+      "disbelief"
+    ],
+    "correct_answer": "disbelief"
+  },
+  {
+    "id": 189,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "The island's _______ makes it an ideal sanctuary for rare seabirds. (ISOLATE)",
+    "options": [
+      "isolative",
+      "isolatedness",
+      "isolation",
+      "isolating"
+    ],
+    "correct_answer": "isolation"
+  },
+  {
+    "id": 190,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "The manager apologized for the _______ caused by the system outage. (CONVENIENT)",
+    "options": [
+      "convenience",
+      "inconvenience",
+      "inconveniency",
+      "unconvenience"
+    ],
+    "correct_answer": "inconvenience"
+  },
+  {
+    "id": 191,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'I regret not studying harder for the exam.'",
+    "options": [
+      "I regret to study harder for the exam.",
+      "I wish I had studied harder for the exam.",
+      "If only I would study harder for the exam.",
+      "I wish I studied harder for the exam."
+    ],
+    "correct_answer": "I wish I had studied harder for the exam."
+  },
+  {
+    "id": 192,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'People say the castle is haunted.'",
+    "options": [
+      "The castle said to be haunted.",
+      "It says that the castle is haunted.",
+      "The castle is said being haunted.",
+      "The castle is said to be haunted."
+    ],
+    "correct_answer": "The castle is said to be haunted."
+  },
+  {
+    "id": 193,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'It wasn't necessary for you to bring a gift.'",
+    "options": [
+      "You shouldn't bring a gift.",
+      "You mustn't have brought a gift.",
+      "You needn't have brought a gift.",
+      "You couldn't have brought a gift."
+    ],
+    "correct_answer": "You needn't have brought a gift."
+  },
+  {
+    "id": 194,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'I'm sure he didn't steal the documents.'",
+    "options": [
+      "He can't have stolen the documents.",
+      "He shouldn't have stolen the documents.",
+      "He needn't have stolen the documents.",
+      "He mustn't have stolen the documents."
+    ],
+    "correct_answer": "He can't have stolen the documents."
+  },
+  {
+    "id": 195,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'We haven't seen each other for five years.'",
+    "options": [
+      "It's been five years since we last saw each other.",
+      "Five years ago we haven't seen each other.",
+      "We didn't see each other since five years.",
+      "It's five years since we have seen each other."
+    ],
+    "correct_answer": "It's been five years since we last saw each other."
+  },
+  {
+    "id": 196,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'Despite being exhausted, she finished the marathon.'",
+    "options": [
+      "Despite she was exhausted, she finished the marathon.",
+      "Exhausted though she was, she finished the marathon.",
+      "Exhausted as she were, she finished the marathon.",
+      "In spite of exhausted, she finished the marathon."
+    ],
+    "correct_answer": "Exhausted though she was, she finished the marathon."
+  },
+  {
+    "id": 197,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'Someone stole his briefcase while he was on the train.'",
+    "options": [
+      "His briefcase had stolen while on the train.",
+      "He had stolen his briefcase on the train.",
+      "He got his briefcase stealing on the train.",
+      "He had his briefcase stolen while he was on the train."
+    ],
+    "correct_answer": "He had his briefcase stolen while he was on the train."
+  },
+  {
+    "id": 198,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'I didn't realize how late it was until I checked my watch.'",
+    "options": [
+      "Not until did I check my watch I realized how late it was.",
+      "Not until I checked my watch I realized how late it was.",
+      "Until I checked my watch I did realize how late it was.",
+      "Not until I checked my watch did I realize how late it was."
+    ],
+    "correct_answer": "Not until I checked my watch did I realize how late it was."
+  },
+  {
+    "id": 199,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'It's high time we addressed this issue.'",
+    "options": [
+      "We used to address this issue regularly.",
+      "We have already addressed this issue on time.",
+      "We really ought to address this issue now.",
+      "We will address this issue much later."
+    ],
+    "correct_answer": "We really ought to address this issue now."
+  },
+  {
+    "id": 200,
+    "topic": "Szóképzés és mondatátalakítás",
+    "question": "Closest meaning: 'She is by far the most qualified candidate.'",
+    "options": [
+      "Every other candidate is almost as qualified as she is.",
+      "She is slightly more qualified than the others.",
+      "She is less qualified than most candidates.",
+      "No other candidate is nearly as qualified as she is."
+    ],
+    "correct_answer": "No other candidate is nearly as qualified as she is."
   }
 ]
