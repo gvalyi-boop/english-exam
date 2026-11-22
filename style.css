@@ -1,3 +1,16 @@
+/* ── Meta label (top-left) ────────────────────────────────── */
+.meta-label {
+  position: fixed;
+  top: 8px;
+  left: 10px;
+  font-size: .72rem;
+  color: var(--muted);
+  opacity: .65;
+  pointer-events: none;
+  z-index: 100;
+  white-space: nowrap;
+}
+
 /* ── Reset & base ─────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 

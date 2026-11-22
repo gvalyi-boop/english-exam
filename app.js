@@ -37,6 +37,7 @@ function showPage(name) {
 async function loadQuestions() {
   const res  = await fetch('questions.json');
   questions  = await res.json();
+  document.getElementById('pool-size').textContent = questions.length;
 }
 
 // ── Fisher-Yates shuffle ──────────────────────────────────────
